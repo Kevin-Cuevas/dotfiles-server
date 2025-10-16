@@ -22,7 +22,7 @@ fi
 # -----------------------------
 echo "Installing required packages..."
 sudo apt update
-sudo apt install -y stow git zsh curl wget eza fzf zoxide
+sudo apt install -y stow git zsh curl wget eza fzf zoxide tmux
 
 # -----------------------------
 # Setup Zsh as default shell
